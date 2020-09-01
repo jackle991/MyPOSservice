@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "myposservice-1f675",
+  "private_key_id": "b0053e2092310449a3d345ec7de5d26a7868be18",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDcJc0gu8Dwu4Oc\nFsYUl7L71qjcTZ1UqkL5DXadE1q0mnZqMke2a5KjSimLZ/tUNvAlXiS+7QaLv+90\nsqUyi4BikgRpSiGnZ6ugxQa2LFfWmn1iqhSr48aVBXb9C8z2z2wFw52kL0h7qu0i\net7HUDhGSqT0avgTqDVz6QOI6gHMPGsZKah/NG8efJN9pgy4vAwM/G710LxyDEuL\niBW3hUTAPBtJ0tsAN+x4L6BhrzsTuQX6NOIfrWyJJFiXc3iVJR9gsrYaLa/XGjQE\nlFP3PrBScMd9cZ0ChVoxOP3Dxvs7fl2H8lyNAvqlLaRsRb5diaICmJ26uY0RPDfc\np35n+qyDAgMBAAECggEAL8kOxQ+sGjUBpNR2q4qgIbUfEy7Pu0x33BqViBPm6PPs\nRzHhyhGAk2wqJ2XrMoT4TIwqWr0VYilH32NVo2qPdBXw2i/qrS0+HlgWFF38tQr0\ns4FqmkMHXFqC0PuKQnqUno2u/q/6wklATu8vw0DA7lUOiDVd4tpsu9u01jfBKyT9\nFoUREt0oFTQbIRvrYtjqabhihg8OBM/WbuhUH42gf90VEc/EWNAekypxaE3L1YjL\nMdnL4i1vlswFfn1LJpy5JGHhT9aPlTsmPnIjny04zeW4qToMuoSavduF6If9862R\ngdI98zIRPW1XDBqELU0aX5CdsmvSKoPI1zY382CH2QKBgQD1TBb4UCXqkP+qWHoW\n7Q6j47NJQF1PoDVXFAcGG5oGoSJkbKdC4hTrxi8BlJ/2MX6CiNdqMcWGLlIJ8TBt\nEt0a85zV7h/gYukNLUWupQtTRz9J3OCSk7+eg+F6O/55L1xv+TzPTppkEwkv+57n\n4V63McqlfELP7I/WPc/T1QDpSwKBgQDlwMwLN5LXnXSy2Qxi8dUHcKt/zljDSH0p\nBPAV+QQVwcgPMIMUBInJvWcIjJhHLBcaPInXj0vBBvV3RBJDwbNyrQGeKxo6mtxk\nRvShGrjknQNkr5bc+6NPtjDobFUVOTGbprz4WzFOWoZX/6VGsUSzwRp3IdBpHVT6\nYyh7ldG+qQKBgQCNtJtAb+y3iXRpEBvXyrK+cvhLxOci7MZju6ojGSbt1YBsy2gE\n915mpmLZYubV7tnKxwrKyl31miTCoZb8K/2XaEyeOaYolntTpWev8KCOR4aEQRlr\nE/eKt102pBnqIDYiabV7fUkrruOL2KyAAG4bHqSW3SYrv9mIRsUc9txD6QKBgQCJ\nCMpq8lWqNubw+ZZyuYz3KBOSYk/9AhJs0d4lLOZr163sqWG1IdPROR/oMHtvD/Qj\nmPIaWQS09+KWpUpDkZfnkRsC7PBy/gTv5oZoRNj8uk3Y0wYnfgt1MtTO/DZvNzLI\nhNX3R+ULt+CjQf6hQIAautV/MvLsjystQNFXjQ+SKQKBgQCVMFTwMZuBU39GBNyv\nwkr394mqnjdGLix5gskXsDk2twL2064aYmJJWr6GmOV3j/6jNqEXf0AzO+8UwY8n\nD5uWJicn4WjdpLQSHqS+Y7itVoHZPuK1zlOFMh6ockYrajfNbxgcUmVeHMERvofw\n0atJESoSMUeKy6LfxMindqNFVQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-rqgtv@myposservice-1f675.iam.gserviceaccount.com",
+  "client_id": "113811255051898404456",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-rqgtv%40myposservice-1f675.iam.gserviceaccount.com"
+}

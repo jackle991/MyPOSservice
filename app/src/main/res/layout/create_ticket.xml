@@ -67,7 +67,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="2dp"
             android:layout_marginLeft="12dp"
-            android:inputType="number"
+            android:inputType="text"
             android:hint="enter store Id"
             android:textSize="25dp"
             android:textStyle="italic"
@@ -124,10 +124,23 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/totalPriceText" />
 
-        <Button
+        <TextView
+            android:id="@+id/responseText"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="50dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="15dp"
+            android:text="Receive Post Message"
+            android:textSize="30dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/totalPrice" />
+
+        <Button
+            android:id="@+id/submitButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="100dp"
             android:text="Submit Ticket"
             android:textSize="25dp"
             app:layout_constraintStart_toStartOf="parent"
