@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyPOSservice</string>
+    <string name="action_settings">Settings</string>
+</resources>
