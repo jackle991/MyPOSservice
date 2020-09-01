@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "677547561004",
+    "firebase_url": "https://myposservice-1f675.firebaseio.com",
+    "project_id": "myposservice-1f675",
+    "storage_bucket": "myposservice-1f675.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677547561004:android:f01d80f540425f2bc18189",
+        "android_client_info": {
+          "package_name": "com.example.jackle91.myposservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677547561004-j37laml8g60n2mrsbav1td345pqh14n9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jackle91.myposservice",
+            "certificate_hash": "703d5b452809243828a2e84b127789a4d7623add"
+          }
+        },
+        {
+          "client_id": "677547561004-tne88dg85gic8pthv2fvdr1he5i5qrvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT_dQcKtJGVZXVAPO8uu5Z2TdoRw8q_7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677547561004-tne88dg85gic8pthv2fvdr1he5i5qrvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
