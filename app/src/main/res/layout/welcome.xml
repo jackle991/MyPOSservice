@@ -18,29 +18,31 @@
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        android:textColor="@android:color/holo_blue_dark"
+        android:textColor="@android:color/holo_red_light"
         />
 
     <Button
         android:id="@+id/viewTicket"
-        android:layout_width="115dp"
-        android:layout_height="46dp"
-        android:layout_marginLeft="150dp"
-        android:layout_marginTop="50dp"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
         android:background="#03A9F4"
-        android:text="View Ticket"
+        android:text="View Ticket Created"
         android:textColor="#FFFFFF"
         app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/welcomeText" />
 
     <Button
         android:id="@+id/createNewTicket"
-        android:layout_width="wrap_content"
+        android:layout_width="180dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:layout_marginLeft="130dp"
+        android:background="#03A9F4"
         android:text="Create New Ticket"
+        android:textColor="#FFFFFF"
         app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/viewTicket" />
 
 

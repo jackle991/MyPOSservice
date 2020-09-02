@@ -46,12 +46,11 @@ app.post('/ticket', (req, res) => {
 	// console.log('businessDate: ' + req.body.businessDate);
 	// console.log('totalPrice: ' + req.body.totalPrice);
 
-	let referencePath = '/Tickets';
+	let referencePath = '/Tickets/' + req.body.ticketNumber + "/";
 	// let ticketRef = admin.database().ref(referencePath);
 	let ticketRef = firebase.database().ref(referencePath);
-	let newTicket = {Ticket : req.body};
 
-	ticketRef.set(newTicket, 
+	ticketRef.set(req.body, 
 		function(error) {
 			if (error) {
 				res.status(500);

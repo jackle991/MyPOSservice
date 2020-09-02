@@ -6,6 +6,8 @@ public class Ticket {
     public String businessDate;
     public String totalPrice;
 
+    public Ticket() { }
+
     public Ticket(String ticketNumber, String storeId, String businessDate, String totalPrice) {
         this.ticketNumber = ticketNumber;
         this.storeId = storeId;
@@ -27,5 +29,15 @@ public class Ticket {
 
     public String getTotalPrice() {
         return totalPrice;
+    }
+
+    public String toString() {
+        String s = "";
+        s = s + "TicketNumber: " + ticketNumber + "\n";
+        s = s + "StoreId: " + storeId + "\n";
+        s = s + "BusinessDate: " + businessDate + "\n";
+        s = s + "TotalPrice: " + totalPrice + "\n";
+
+        return s;
     }
 }
